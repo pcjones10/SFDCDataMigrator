@@ -1,0 +1,6 @@
+"Id","OwnerId","IsDeleted","Name","CreatedDate","CreatedById","LastModifiedDate","LastModifiedById","SystemModstamp","LastActivityDate","Active__c","Description__c","EffectiveDate__c","ExpirationDate__c","GuidePage__c","ContractNumber__c"
+"a0UE00000002922MAA","005E0000001em2EIAQ","0","GenWatt","2012-08-29 16:38:03","005E0000001em2EIAQ","2012-08-29 16:38:03","005E0000001em2EIAQ","2012-08-29 16:38:03","","1","Prices for GenWatt Products","","","",""
+"a0UE000000030GCMAY","005E0000001em2EIAQ","0","Sales Force","2012-10-01 21:17:52","005E0000001em2EIAQ","2012-10-01 21:17:52","005E0000001em2EIAQ","2012-10-01 21:17:52","","1","Salesforce","","","",""
+"a0UE000000030ISMAY","005E0000001em2EIAQ","0","Many Products","2012-10-01 22:24:30","005E0000001em2EIAQ","2012-10-01 22:24:30","005E0000001em2EIAQ","2012-10-01 22:24:30","","1","Many Products","","","",""
+"a0UE0000000349ZMAQ","005E0000001em2EIAQ","0","Dell Price","2012-10-05 00:06:06","005E0000001em2EIAQ","2012-10-05 00:06:06","005E0000001em2EIAQ","2012-10-05 00:06:06","","1","","","","",""
+"a0UE0000002FGFEMA4","005E0000001em2EIAQ","0","Dell Call Center","2012-12-27 21:43:31","005E0000001em2EIAQ","2012-12-27 21:43:31","005E0000001em2EIAQ","2012-12-27 21:43:31","","1","Dell Call Center","","","",""
