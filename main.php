@@ -59,7 +59,11 @@ function main($processChildren, $mySforceConnection, &$sObjectIdMap){
 				}
 			}
 			
-			insertSObjects($mySforceConnection, $file, $fieldArray, $sObjectIdMap);
+			if(!$isDetail && !$processChildren){
+				insertSObjects($mySforceConnection, $file, $fieldArray, $sObjectIdMap);
+			}else if($isDetail && $processChildren){
+				insertSObjects($mySforceConnection, $file, $fieldArray, $sObjectIdMap);
+			}
 		}
 	}
 	if(!$processChildren){

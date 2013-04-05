@@ -1,0 +1,4 @@
+"Id","Name","ModuleNamespace","Description","BusinessProcessId","SobjectType","IsActive","CreatedById","CreatedDate","LastModifiedById","LastModifiedDate","SystemModstamp","IsDeleted"
+"012E00000001HOCIA2","Internal Community: Question Record Type","","Record type used to associate Question with a specific community","","Question","1","005E0000001eioKIAQ","2012-08-27 03:20:39","005E0000001eioKIAQ","2012-08-27 03:20:39","2012-08-27 03:20:39","0"
+"012E00000001HODIA2","Internal Community: Reply Record Type","","Record type used to associate Reply with a specific community","","Reply","1","005E0000001eioKIAQ","2012-08-27 03:20:39","005E0000001eioKIAQ","2012-08-27 03:20:39","2012-08-27 03:20:39","0"
+"012E0000000aiDuIAI","Internal Ideas: Idea Record Type","","Record Type used to associate ideas with a specific community","","Idea","1","005E0000001eioKIAQ","2012-08-27 03:20:21","005E0000001eioKIAQ","2012-08-27 03:20:21","2012-08-27 03:20:21","0"
