@@ -1,7 +1,7 @@
 ÷<?php
 
 define("USERNAME", "pjones@apttusdevpj3.com");
-define("PASSWORD", "Lacrosse1");
+define("PASSWORD", "*******");
 define("SECURITY_TOKEN", "AloffpMAl876xrkc4lhuC1x3");
 
 require_once ('soapclient/SforceEnterpriseClient.php');
